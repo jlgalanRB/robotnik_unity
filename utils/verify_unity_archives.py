@@ -18,11 +18,11 @@ EXPECTED_WORLDS = {'empty_world', 'simple_world'}
 EXPECTED_ARCHIVES = {
     'unity_simulation.tar.gz': {
         'world': 'simple_world',
-        'sha256': '8da6abc966e0ed264c5a3675cbb62320354ca759d13a1709554ad6c977097609',
+        'sha256': '481781c6381c80c04229960dff6bc32dbe4e6ae070e9d6749ae51138e29e762a',
     },
     'unity_simulation_only.tar.gz': {
         'world': 'empty_world',
-        'sha256': 'a8f0c70b71ec93310309eecec31d307e7128939a1c322efe90aabf7bb9180003',
+        'sha256': '2385e388b9b7e24002d3fd9985b8ef84958017298cb464d8eebe85c9ed6b5c01',
     },
 }
 
